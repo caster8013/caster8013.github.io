@@ -2,6 +2,7 @@
 layout: post
 title: "A Full and Comprehensive Style Test(Korean ver.)"
 tags: [샘플 포스트, 테스트, 스타일]
+published: false
 comments: true
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Syntax Highlighting Post"
 tags: [sample post, code, highlighting]
+published: false
 comments: true
 ---
 
