@@ -11,7 +11,11 @@ comments: true
 
 > 提醒的话：Signal的官网在大陆不能正常打开，我们从官网下载android版客户端，提供大家下载。
 
-手机浏览器中打开[这里][1]下载文件，下载完成之后会有安装提示，同意安装即可。
+下载文件链接：
+
+[Signal-website-release-4.18.3.apk][2]
+
+下载完成之后会有安装提示，同意安装即可。
 
 #### iOS系统(Iphone/Ipad)
 
@@ -22,3 +26,4 @@ comments: true
 #### 安装结束！
 
 [1]:<http://w8.undervineyard.com/Signal-website-release-4.17.5.apk>
+[2]:<http://w8.undervineyard.com/Signal-website-release-4.18.3.apk>
