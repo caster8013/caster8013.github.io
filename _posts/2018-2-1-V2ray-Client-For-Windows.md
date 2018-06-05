@@ -23,7 +23,13 @@ swithyomega插件下载完成之后，浏览器提醒你是否安装插件，同
 
 ### 三、安装V2Ray客户端
 
-如果你的系统是64位，点击[这里][4]下载；32位系统，点击[这里][5]下载。
+如果你的系统是64位:
+
+[`v2ray-v3.24-windows-64.zip`][4]
+
+32位系统:
+
+[`v2ray-v3.24-windows-32.zip`][5]
 
 下载之后的文件是压缩文件，文件解压之后是一个文件夹，里面的文件已经配置好。把这个文件夹Copy到电脑里一个安全的地方，以后会经常运行。
 
@@ -37,5 +43,5 @@ swithyomega插件下载完成之后，浏览器提醒你是否安装插件，同
 [1]:<http://w8.undervineyard.com/>
 [2]:<http://w8.undervineyard.com/SwitchyOmega.crx>
 [3]:<http://w8.undervineyard.com/OmegaOptions.2018.2.1.bak>
-[4]:<http://w8.undervineyard.com/v2ray-v2.43-windows-64-configured.zip>
-[5]:<http://w8.undervineyard.com/v2ray-v2.43-windows-32-configured.zip>
+[4]:<http://w8.undervineyard.com/v2ray-v3.24-windows-64.zip>
+[5]:<http://w8.undervineyard.com/v2ray-v3.24-windows-32.zip>
