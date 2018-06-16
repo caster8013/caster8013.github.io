@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
-Some information about you!
+这里是PTY无墙计划！我们致力于帮助委身同工突破网络封锁，自由地获取信息！
 
-### More Information
+> **一齐寻找彩蛋吧！**
 
-A place to include any other types of information that you'd like to include about yourself.
+> 每篇文章或教程下面都有留言板，这个功能需要蕃蔷才能显示和使用。
 
-### Contact me
+> 某些文章下面的留言板中有惊喜！
 
-[email@domain.com](mailto:email@domain.com)
+### 跟我们联系
+
+[warley.8013+undervineyard+pty@gmail.com](mailto:warley8013+gh@gmail.com)
