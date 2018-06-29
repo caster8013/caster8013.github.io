@@ -20,4 +20,4 @@ permalink: /about/
 
 ### 跟我们联系
 
-[warley.8013+undervineyard+pty@gmail.com](mailto:warley8013+gh@gmail.com)
+[warley.8013+gh@gmail.com](mailto:warley.8013+gh@gmail.com)
