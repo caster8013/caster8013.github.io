@@ -17,6 +17,8 @@ comments: true
 
 - [Signal-website-release-4.19.3.apk][2]
 
+- [Signal-website-release-4.23.4.apk][3]
+
 下载完成之后会有安装提示，同意安装即可。
 
 #### iOS系统(Iphone/Ipad)
@@ -29,3 +31,4 @@ comments: true
 
 [1]:<http://w8.undervineyard.com/Signal-website-release-4.18.3.apk>
 [2]:<http://w8.undervineyard.com/Signal-website-release-4.19.3.apk>
+[3]:<http://w8.undervineyard.com/Signal-website-release-4.23.4.apk>

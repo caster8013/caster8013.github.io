@@ -28,10 +28,10 @@ navigation:
     url: /
   - name: About
     url: /about
-  # - name: Archive
-    # url: /archive
-  - name: Tags
-    url: /tags
+  - name: Archive
+    url: /archive
+  # - name: Tags
+  #   url: /tags
   - name: Repository
     url: https://github.com/caster8013/caster8013.github.io
   - name: FTP
