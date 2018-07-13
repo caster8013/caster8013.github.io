@@ -30,10 +30,10 @@ navigation:
     url: /about
   - name: Archive
     url: /archive
-  # - name: Tags
-  #   url: /tags
-  - name: Repository
-    url: https://github.com/caster8013/caster8013.github.io
+  - name: Tags
+    url: /tags
+  # - name: Repository
+  #   url: https://github.com/caster8013/caster8013.github.io
   - name: FTP
     url: http://w8.undervineyard.com/
 
