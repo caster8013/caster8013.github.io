@@ -30,8 +30,10 @@ navigation:
     url: /about
   - name: Archive
     url: /archive
-  - name: Tags
-    url: /tags
+  # - name: Tags
+  #   url: /tags
+  - name: Web Proxy
+    url: https://nodeunblocker.ml
   # - name: Repository
   #   url: https://github.com/caster8013/caster8013.github.io
   - name: FTP
