@@ -37,7 +37,7 @@ navigation:
   # - name: Repository
   #   url: https://github.com/caster8013/caster8013.github.io
   - name: FTP
-    url: http://w8.undervineyard.com/
+    url: http://35.200.111.89/
 
 # Pagination
 paginate: 10

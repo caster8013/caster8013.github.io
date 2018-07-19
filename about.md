@@ -20,4 +20,4 @@ permalink: /about/
 
 ### 跟我们联系
 
-[warley.8013+gh@gmail.com](mailto:warley.8013+gh@gmail.com)
+[Join Telegram Group](https://t.me/joinchat/GYHAFRDtRk80uEXRtuoR3w)
