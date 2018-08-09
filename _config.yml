@@ -40,16 +40,16 @@ navigation:
     url: http://35.200.111.89/
 
 # Pagination
-paginate: 10
+paginate: 20
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: warley8013+gh@gmail.com
+  email: #warley8013+gh@gmail.com
   facebook:
   flickr:
-  github: caster8013
+  github: #caster8013
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -61,7 +61,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2018 无墙计划@葡萄园
+footer-text: © 2018 无墙计划
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
