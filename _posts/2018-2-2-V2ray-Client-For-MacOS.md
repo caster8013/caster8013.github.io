@@ -11,7 +11,11 @@ comments: true
 
 ### 一、安装V2ray客户端
 
-点击[这里][2],下载解压之后安装。
+下载链接:
+
+- [V2RayX-v1.2.2-MacOS.zip][2]
+
+下载解压之后安装。
 
 从启动程序中找到V2RayX，打开程序。桌面最上方标题栏中出现钻石形状的程序图标，说明v2ray已运行。
 
@@ -38,4 +42,4 @@ macos+config
 
 <!-- [1]:<https://undervineyard.tk/2018/02/01/V2ray-Client-For-Windows.html> -->
 [1]:<{{ site.baseurl }}{% post_url 2018-2-1-V2ray-Client-For-Windows %}>
-[2]:<http://w8.undervineyard.com/V2RayX-v0.9.1-MacOS.zip>
+[2]:<http://w8.undervineyard.com/V2RayX-v1.2.2-MacOS.zip>
