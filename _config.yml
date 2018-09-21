@@ -37,7 +37,7 @@ navigation:
   # - name: Repository
   #   url: https://github.com/caster8013/caster8013.github.io
   - name: FTP
-    url: http://35.200.111.89/
+    url: http://35.221.76.144/
 
 # Pagination
 paginate: 20
