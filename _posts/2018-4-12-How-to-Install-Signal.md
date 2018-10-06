@@ -5,15 +5,15 @@ tags: [ signal , iphone, andorid, 安装教程 ]
 comments: true
 ---
 
-> 前面的话：Signal是一款端对端加密通信软件，这意味着，只有通信双方可以看到通信内容，其它人都不能。我们鼓励大家使用Signal，是因为它是大陆为数不多的不需要翻墙就可以使用的加密通信工具。
+> 前面的话：Signal是一款端对端加密通信软件，这意味着，只有通信双方可以看到通信内容，其它人都不能。
 
 #### Android系统
 
-> 提醒的话：Signal的官网在大陆不能正常打开，我们从官网下载android版客户端，提供大家下载。
+> 提醒的话：下面链接中Signal安装文件来自Signal官网，我们会不定时更新。
 
 下载文件链接：
 
-- [Signal-website-release-4.25.10.apk][4]
+- [Signal-website-release-4.25.10.apk][1]
 
 下载完成之后会有安装提示，同意安装即可。
 
@@ -25,4 +25,4 @@ comments: true
 
 #### 安装结束！
 
-[4]:<http://w8.undervineyard.com/Signal-website-release-4.25.10.apk>
+[1]:<http://w8.undervineyard.com/Signal-website-release-4.25.10.apk>
