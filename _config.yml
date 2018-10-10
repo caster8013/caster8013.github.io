@@ -36,8 +36,8 @@ navigation:
     url: https://nodeunblocker.ml
   # - name: Repository
   #   url: https://github.com/caster8013/caster8013.github.io
-  - name: FTP
-    url: http://35.221.76.144/
+  # - name: FTP
+  #   url: 
 
 # Pagination
 paginate: 20
