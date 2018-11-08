@@ -9,7 +9,7 @@ comments: true
 
 ### 一、安装 v2rayNG
 
-在手机浏览器中打开本页面，点击 [Android-v2rayNG-v0.3.10-universal][1]，下载安装文件。下载成功之后安装。
+在手机浏览器中打开本页面，点击 [android-v2rayNG-v0.5.9-universal.apk][1]，下载安装文件。下载成功之后安装。
 
 ### 二、导入配置文件
 
@@ -34,5 +34,5 @@ http://w8.undervineyard.com/v2ray-clientside-WS-TLS-Nginx.json
 ### Android系统中v2ray客户端安装结束！
 
 
-[1]:<http://w8.undervineyard.com/android-v2rayNG-v0.3.10-universal.apk>
+[1]:<http://w8.undervineyard.com/android-v2rayNG-v0.5.9-universal.apk>
 [2]:<http://w8.undervineyard.com/v2ray-clientside-WS-TLS-Nginx>
