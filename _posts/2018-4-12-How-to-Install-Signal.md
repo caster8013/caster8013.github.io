@@ -13,7 +13,7 @@ comments: true
 
 下载文件链接：
 
-- [Signal-website-release-4.31.8.apk][1]
+- [Signal-website-release-4.32.8.apk][2]
 
 下载完成之后会有安装提示，同意安装即可。
 
@@ -25,4 +25,4 @@ comments: true
 
 #### 安装结束！
 
-[1]:<https://w8.undervineyard.com/Signal-website-release-4.31.8.apk>
+[2]:<https://w8.undervineyard.com/Signal-website-release-4.32.8.apk>
