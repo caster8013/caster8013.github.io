@@ -19,7 +19,7 @@ description: 蕃茄教程&时评文章备份
 avatar: https://i.loli.net/2018/05/16/5afc21b7840e2.jpg
 # delete: https://sm.ms/delete/2odVpBevQnGrFPJ
 
-
+future: true
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
@@ -32,21 +32,17 @@ navigation:
     url: /archive
   # - name: Tags
   #   url: /tags
-  # - name: Web Proxy
-  #   url: https://nodeunblocker.ml
   # - name: Repository
   #   url: https://github.com/caster8013/caster8013.github.io
-  # - name: FTP
-  #   url: 
 
 # Pagination
-paginate: 20
+paginate: 10
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: #warley8013+gh@gmail.com
+  email: warley8013@gmail.com
   facebook:
   flickr:
   github: #caster8013
