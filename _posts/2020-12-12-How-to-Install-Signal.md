@@ -15,7 +15,7 @@ comments: true
 下载文件链接：
 
 - 官网下载页面：[signal.org/android/apk/][online] 
-- 文件服务器下载：[Signal-website-universal-release-4.38.3.apk][signal@w8] 大小：37M
+- 文件服务器下载：[Signal-website-universal-release-4.43.8.apk][signal@w8] 大小：43.2M
 
 下载完成之后，找到文件点击安装。
 
@@ -33,5 +33,5 @@ comments: true
 
 注册完成以后，app提醒你填写个人名称和选择头像。然后，就可以使用了！
 
-[signal@w8]:<https://w8.undervineyard.com/Signal-website-universal-release-4.38.3.apk>
+[signal@w8]:<https://w8.undervineyard.com/Signal-website-universal-release-4.43.8.apk>
 [online]:<https://signal.org/android/apk/>
