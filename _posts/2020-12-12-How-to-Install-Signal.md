@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "怎样在Android系统和苹果系统上安装Signal APP?"
+title: "如何安装Signal?"
 tags: [ signal , iphone, andorid, 安装教程 ]
 comments: true
 ---
@@ -8,14 +8,10 @@ comments: true
 
 #### Android系统
 
-> 提醒：
-> 下面Signal安装文件来自Signal官网，我们会不定时更新。
-> 如果你需要更新，或者希望安装最新版，可以直接到官网下载，或者提醒我更新安装文件。
-
 下载文件链接：
 
 - 官网下载页面：[signal.org/android/apk/][online] 
-- 文件服务器下载：[Signal-website-universal-release-4.43.8.apk][signal@w8] 大小：43.2M
+- 文件服务器下载：[Signal-website-universal-release-4.44.7.apk][signal@w8] 大小：43M
 
 下载完成之后，找到文件点击安装。
 
@@ -25,13 +21,15 @@ comments: true
 
 <hr>
 
-### Step 2: 注册和验证手机号
+### Step 2: 手机号注册和添加好友
 
-第一次使用signal需要注册。注册过程很简单！
+第一次使用signal，或者以后重新安装，都需要手机号注册。
 
-打开signal客户端，它会提示请求授权读写联系人和媒体文件。之后会提示你输入手机号，点击注册之后手机收到6位数验证码，把收到的注册码填入即完成注册。
+打开signal，会提示你输入手机号。输入手机号码，点击“下一步”之后，手机提示你输入收到6位数验证码。把收到的注册码填入即完成注册。
 
-注册完成以后，app提醒你填写个人名称和选择头像。然后，就可以使用了！
+注册完成之后，进入资料设置页面。名称是必选的，头像是备选的，这两项以后都可以在App中更改。点击“保存”之后，就可以使用了。
 
-[signal@w8]:<https://w8.undervineyard.com/Signal-website-universal-release-4.43.8.apk>
+> 开始聊天之前，你需要在手机通讯录中，通过手机号添加对方。在signal的主界面，可以通过右上角的“新建对话”开始一段聊天。
+
+[signal@w8]:<https://w8.undervineyard.com/Signal-website-universal-release-4.44.7.apk>
 [online]:<https://signal.org/android/apk/>

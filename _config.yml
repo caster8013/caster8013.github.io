@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 无墙计划
+name: UVP
 
 # Short bio or description (displayed in the header)
-description: 蕃茄教程&时评文章备份
+description: UVP Turorials & Posts Backup
 
 #
 # Flags below are optional
@@ -61,7 +61,7 @@ footer-text: © 2018 无墙计划
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: www-undervineyard-tk # <username>.disqus.com
+disqus: # www-undervineyard-tk # <username>.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:

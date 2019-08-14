@@ -3,6 +3,7 @@ layout: post
 title: "怎样在ubuntu(分64位/32位)系统安装v2ray客户端？"
 tags: [ v2ray , linux, 安装教程 ]
 comments: true
+published: false
 ---
 
 > ubuntu系统中的v2ray客户端分为64位和32位，针对不同的系统架构。下载客户端的时候，需要对应下载。命令行界面运行下面的命令，获得系统架构的参数。
