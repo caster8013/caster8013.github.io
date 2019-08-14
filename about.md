@@ -18,8 +18,6 @@ permalink: /about/
 <!-- - FTP 导向本项目的文件服务器 -->
 
 
-> 每篇文章或教程下面都有留言板，这个功能需要蕃蔷才能显示和使用。
-
 ### 跟我们联系
 
 [Join Telegram Group](https://t.me/joinchat/GYHAFRDtRk80uEXRtuoR3w)
