@@ -11,7 +11,7 @@ comments: true
 
 ### Step 2：填入配置参数
 
-配置参数分为两部分。第一部分是7张图片，可以点击 [mac-config.zip](https://w8.undervineyard.com/static/mac-config.zip) 下载。按照图片中的配置参数填入。第二部分是图片中两处绿色框内参数，每个人不同，请私信给我，单独发给你。
+配置参数分为两部分。第一部分是多张图片，可以点击 [mac-config.zip](https://w8.undervineyard.com/static/mac-config.zip) 下载。按照图片中的配置参数填入。第二部分是图片中两处绿色框内参数，每个人不同，请私信给我，单独发给你。
 
 ### Step 3：选择v2ray运行模式
 
