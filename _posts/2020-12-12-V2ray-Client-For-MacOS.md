@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "如何苹果系统安装V2ray？"
+title: "如何在Mac OS安装V2ray？"
 tags: [ v2ray , mac OS X, 安装教程 ]
+excerpt_separator: <!--more-->
 comments: true
 ---
 
 ### Step 1：安装V2ray客户端
 
 浏览器打开发给你的链接，下载v2ray客户端。解压之后，把v2rayx移动到/Application文件夹，即完成安装。四指捏合调出launchpad，找到程序打开。桌面标题栏出现钻石形状的图标，说明v2ray已运行。
+
+<!--more-->
 
 ### Step 2：填入配置参数
 

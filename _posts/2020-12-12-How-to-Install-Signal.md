@@ -2,6 +2,7 @@
 layout: post
 title: "如何安装Signal?"
 tags: [ signal , iphone, andorid, 安装教程 ]
+excerpt_separator: <!--more-->
 comments: true
 ---
 ### Step 1: 下载和安装
@@ -12,6 +13,8 @@ comments: true
 
 - 官网下载页面：[signal.org/android/apk/][online] 
 - 文件服务器下载：[Signal-website-universal-release-4.50.5.apk][signal@w8] 大小：44M
+
+<!--more-->
 
 下载完成之后，找到文件点击安装。
 
