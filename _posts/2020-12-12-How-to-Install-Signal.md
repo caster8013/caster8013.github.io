@@ -11,7 +11,7 @@ comments: true
 下载文件链接：
 
 - 官网下载页面：[signal.org/android/apk/][online] 
-- 文件服务器下载：[Signal-website-universal-release-4.47.7.apk][signal@w8] 大小：44M
+- 文件服务器下载：[Signal-website-universal-release-4.50.5.apk][signal@w8] 大小：44M
 
 下载完成之后，找到文件点击安装。
 
@@ -31,5 +31,5 @@ comments: true
 
 > 开始聊天之前，你需要在手机通讯录中，通过手机号添加对方。在signal的主界面，可以通过右上角的“新建对话”开始一段聊天。
 
-[signal@w8]:<https://w8.undervineyard.com/Signal-website-universal-release-4.47.7.apk>
+[signal@w8]:<https://w8.undervineyard.com/Signal-website-universal-release-4.50.5.apk>
 [online]:<https://signal.org/android/apk/>
