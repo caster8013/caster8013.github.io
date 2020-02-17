@@ -30,4 +30,4 @@ comments: true
 此时，浏览器已经可以蕃茄。测试过程为，先打开百度，查看联网是否正常；再打开google，查看能否正常显示。
 
 [2]:<http://w8.undervineyard.com/SwitchyOmega.crx>
-[3]:<https://w8.undervineyard.com/OmegaOptions_2019.3.6.bak>
+[3]:<https://w8.undervineyard.com/OmegaOptions.20200217.bak>
